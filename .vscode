@@ -1,0 +1,17 @@
+{
+    "editor.fontFamily": "consolas",
+    "editor.fontSize": 16,
+    "editor.cursorStyle": "block",
+    "workbench.colorTheme": "Monokai",
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "window.zoomLevel": 0,
+    "editor.formatOnPaste": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.snippetSuggestions": "top",
+    "editor.rulers": [
+        80,
+        120
+    ],
+    "editor.lineHeight": 20,
+    "workbench.iconTheme": "vscode-great-icons",
+}
